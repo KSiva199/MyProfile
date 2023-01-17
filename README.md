@@ -5,15 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksiva1996" alt="ksiva1996" /></a> </p>
 
-- 🔭 I’m currently working on [Flight Data](https://github.com/KSiva199/Big_Data_Project.git)
+- 🔭 I’m currently working on [Flight Data which is Data Pre-processing and Data Extraction](https://github.com/KSiva199/Big_Data_Project.git)
 
-- 🌱 I’m currently learning **Python, Sql and**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and AI**
 
 - 👯 I’m looking to collaborate on **Data Extracting, Data Pre-processing, Data Mining and Data Warehousing**
+
+- 📫 How to reach me **Shiva.shiva130596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/siva-ram-829899191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-ram-829899191/" height="30" width="40" /></a>
+<a href="https://instagram.com/itsme.ksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsme.ksr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/korakus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="korakus" height="30" width="40" /></a>
 </p>
 
