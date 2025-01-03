@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Data Extracting, Data Pre-processing, Data Mining and Data Warehousing**
 
-- 📫 How to reach me **Shiva.shiva130596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
